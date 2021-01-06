@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## "Hello, world! :earth_asia: "
+-  :art:  Frontend Developer
 - 🌱  I’m currently learnin Android and React Native
 - :star2:  I like to make new and challenging things
 -  :rabbit: :heartpulse:  Fun Fact: mint chocolate is LOVE
