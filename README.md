@@ -20,7 +20,4 @@ Here are some ideas to get you started:
 - :star2:  I like to make new and challenging things
 -  :rabbit: :heartpulse:  Fun Fact: mint chocolate is LOVE
 
-
-![calmdownyoung's github stats](https://github-readme-stats.vercel.app/api?username=calmdownyoung&show_icons=true)
-
-
+![NanaYoungg's github stats](https://github-readme-stats.vercel.app/api?username=NanaYoungg&show_icons=true)
