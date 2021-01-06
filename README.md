@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## "Hello, world! :earth_asia: "
 - 🌱  I’m currently learnin Android and React Native
 - :star2:  I like to make new and challenging things
--  :rabbit::hearts:  Fun Fact: mint chocolate is LOVE
+-  :rabbit: :heartpulse:  Fun Fact: mint chocolate is LOVE
 
 
 ![calmdownyoung's github stats](https://github-readme-stats.vercel.app/api?username=calmdownyoung&show_icons=true)
