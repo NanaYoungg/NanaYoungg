@@ -1,4 +1,3 @@
-## &nbsp;  Hi there I'm Nayoung👋
 
 <!--
 **calmdownyoung/calmdownyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## "Hello, world! :earth_asia: "
--  :art:  Application Developer
-- 🌱  I’m currently learnin Android and Flutter
-- :star2:  I like to make new and challenging things
--  :rabbit: :heartpulse:  Fun Fact: mint chocolate is LOVE
 
 ![NanaYoungg's github stats](https://github-readme-stats.vercel.app/api?username=NanaYoungg&show_icons=true)
